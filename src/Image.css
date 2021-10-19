@@ -1,0 +1,32 @@
+
+
+.titlered{
+    color: #2596be;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    width: fit-content;
+    margin: 10px auto;
+    text-decoration: underline;
+    border:hotpink 2px solid ;
+    border-radius: 20%;
+
+}
+.seediv{
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: pink;
+}
+.myimg1{
+    width: 50% ;
+    border: 5px solid hotpink;
+    border-radius: 5%;
+
+}
+.myimg2{
+    width: 50%;
+    border: 5px solid #2596be ;
+}
